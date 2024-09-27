@@ -15,9 +15,9 @@ import lombok.ToString;
 @Builder
 public class Car {
 
-	String modelName;
-	String maker;
-	String color;
+	String Model;
+	String Company;
+	String Color;
 	
 }
 
